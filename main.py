@@ -106,6 +106,7 @@ def get_other_info(_user_info):
     try:
         global request_count
         response = httpx.get(url, headers=_headers, proxies=proxies).text
+        print(response)
         request_count += 1
         raw_data = json.loads(response)
         _user_info.rest_id = raw_data['data']['user']['result']['rest_id']
