@@ -8,7 +8,7 @@
     "user_lst": "wigebox,Free__Wallpaper,Ahmadansari2233,Papers_app", //awsiiq 注释的为没有壁纸原图的账号
     "user_lst_info": "填入要下载的用户名(@后面的字符),支持多用户下载,用户名字间逗号(英文逗号,不要有空格)隔开",
 
-    "cookie": "auth_token=e6eb15f749f66feae0ccab9e8294cbb249b318f4; ct0=c42245e7ae27bdb26ea6304fb753f250c954c5810083301e4b3662c8f9581604301ae573396e83a25d113f84b2e50e219520ab625124eeadbf51edd2300970664636b2e2c87351fad97b9d8d51701c4e;",
+    "cookie": "",
     "cookie_info": "填入 cookie (auth_token与ct0字段) //重要:替换掉其中的x即可, 注意不要删掉分号",
 
 
